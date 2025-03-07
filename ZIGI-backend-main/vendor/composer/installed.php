@@ -3,7 +3,7 @@
         'name' => 'elie-ntwari/zigi-backend',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '190ca9f32ca95188fa4446329e0c6be6b9807bcb',
+        'reference' => '9786946c3d28f75698b53174672a397d84dfd0e1',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -166,7 +166,7 @@
         'elie-ntwari/zigi-backend' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '190ca9f32ca95188fa4446329e0c6be6b9807bcb',
+            'reference' => '9786946c3d28f75698b53174672a397d84dfd0e1',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
